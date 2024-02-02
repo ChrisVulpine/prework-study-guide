@@ -1,6 +1,7 @@
 # Prework Study Guide Webpage
 
 ## Description
+Another test about renaming and moving local and remote files 🦊
 
 The motivation behind this project was to practice basic HTML CSS and Javascript.
 This project was built in order to posess a collection of information on the topics above on a single page. It solves the issue of information overload. This page cosolidates the massive amount of information into an easy to use study guide.
